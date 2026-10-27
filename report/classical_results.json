@@ -1,0 +1,18 @@
+[
+  {
+    "model": "SVM",
+    "split": "test",
+    "accuracy": 0.9696969696969697,
+    "precision_macro": 0.9663561076604554,
+    "recall_macro": 0.9659090909090909,
+    "f1_macro": 0.9658914728682171
+  },
+  {
+    "model": "RandomForest",
+    "split": "test",
+    "accuracy": 0.9696969696969697,
+    "precision_macro": 0.9663561076604554,
+    "recall_macro": 0.9659090909090909,
+    "f1_macro": 0.9658914728682171
+  }
+]

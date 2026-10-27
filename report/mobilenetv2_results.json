@@ -1,0 +1,11 @@
+{
+  "model": "MobileNetV2",
+  "split": "test",
+  "accuracy": 0.9494949494949495,
+  "precision_macro": 0.9461102622867329,
+  "recall_macro": 0.9431818181818181,
+  "f1_macro": 0.9444716165472846,
+  "best_validation_accuracy": 0.985,
+  "epochs": 8,
+  "device": "cpu"
+}

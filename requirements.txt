@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python==4.11.0.86
+scikit-image
+scikit-learn
+joblib
+torch
+torchvision
+streamlit
